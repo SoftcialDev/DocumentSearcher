@@ -1,0 +1,11 @@
+numpy<2.0
+python-dotenv
+tika
+python-docx
+sentence-transformers
+psycopg[binary]
+flask
+gunicorn
+requests>=2.31.0
+pymupdf
+msal
