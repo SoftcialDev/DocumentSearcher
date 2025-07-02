@@ -629,9 +629,4 @@ if not hasattr(app, 'onedrive_thread_started'):
 """
 
 if __name__ == "__main__":
-    #users = get_onedrive_users()
-    #download_onedrive_file('c530b674-6505-4913-b8e3-7ad6ca37a049', '01WCIB2WNG4ASHR6F5OVHY5BDUFQYU3ICL', 'gpt_code.py')
-    #for user in users:
-    #    #traverse_onedrive(user)
-    #    pass
     start_onedrive_sequence()
